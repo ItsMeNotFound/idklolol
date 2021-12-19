@@ -1,0 +1,23 @@
+[10:52:29] [main/INFO]: Using standard Java JCE cipher.
+[10:52:29] [main/INFO]: Using standard Java compressor.
+[10:52:29] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.18-R0.1-SNAPSHOT:a4fb545:471
+[10:52:29] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+[10:52:29] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+[10:52:29] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+[10:52:29] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+[10:52:29] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+[10:52:29] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+[10:52:29] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:29] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:29] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:29] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:29] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:29] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:29] [main/WARN]: Forced host server pvp is not defined
+[10:52:29] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:29] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:29] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:29] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:29] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:29] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.18-R0.1-SNAPSHOT:a4fb545:471 by WaterfallMC
+[10:52:30] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:55555
